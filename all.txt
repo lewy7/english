@@ -55,6 +55,7 @@ numerous ˈnjuːmərəs adj. 众多的；许多的；数不清的
 trial ˈtraɪəl  试用
 bookkeeping 账本
 margin n. 边缘；利润；余地；页边的空白；差额，差数；极限
+maritime ˈmærɪˌtaɪm  adj. 海上的，海事的，海运的 @f35vsf15
 brink brɪŋk 边缘 brink of war
 padding ˈpædɪŋ n. 填料；衬垫；废话
 lay off 解雇
@@ -261,6 +262,7 @@ perish ˈpɛrɪʃ v. 毁灭，死亡
 conquer ˈkɒŋkə 征服 
 conscious ˈkɒnʃəs 意识到的 
 conspicuous kənˈspɪkjʊəs 引人注目的
+constituency kənˈstɪtjʊənsɪ  顾客 读者
 
 major ˈmeɪdʒə 主要的  minor ˈmaɪnə adj. 较小的 
 majestic  məˈdʒestɪk 神迹
@@ -436,6 +438,7 @@ infer ɪnˈfɜː v. 推论
 refer/mention rɪˈfɜː v. 提到，谈及
 sequel  ˈsiːkwəl   续集
 
+procurement prəˈkjʊəmənt n. 采购 procurement cost  @f35vsf15
 proceed prəˈsiːd v. 继续进行；开始；着手；
 process ˈprəʊsɛs   n. 过程，进程  v. 处理；加工；列队行进
 exceed ɪkˈsiːd v. 超过
@@ -555,6 +558,7 @@ obsolete ˈɒbsəˌliːt 淘汰；废弃
 cumulative ˈkjuːmjʊlətɪv adj. 累积的；渐增的
 accumulate əˈkjuːmjʊˌleɪt v 积累，积聚
 stimulate ˈstɪmjʊˌleɪt v. 刺激；激励
+stipulate ˈstɪpjʊˌleɪt v. 规定；保证 Contracts stipulate cost of $80M per plance by 2020.
 
 
 attribute ˈætrɪˌbjuːt 属性 把……归因于
@@ -900,6 +904,7 @@ fend fɛnd v. 谋生
 
 turncoat ˈtɜːnˌkəʊt 变节者
 scout skaʊt 侦察；侦察员，侦察机
+reconnaissance rɪˈkɒnɪsəns  n. 搜察；勘察；侦察  @f35vsf15
 fluid ˈfluːɪd 液体 流动的
 
 canyon ˈkænjən 峡谷
@@ -917,7 +922,7 @@ creep kriːp 爬行 蔓延 卑鄙小人
 crawl krɔːl 爬行；匍匐 爬泳
 squat skwɒt 蹲坐
 weed 野草
-straw n. 稻草，麦秆
+straw strɔː n. 稻草，麦秆
 
 fate feɪt n. 命运，宿命；死亡
 fatigue fəˈtiːɡ 疲劳；杂役
@@ -1131,3 +1136,6 @@ abide əˈbaɪd v. 忍受；遵守；居住
 dagger ˈdæɡə n. 匕首，短剑
 stab stæb v. 戳；刺伤
 strait streɪt n. 海峡 
+nonrecurring adj. 不重现的 nonrecurring engineering costs.
+radius n. 半径 combat radius 作战半径
+allied ˈælaɪd/əˈlaɪd adj/n  同盟
