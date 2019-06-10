@@ -24,7 +24,9 @@ inventory ˈɪnvəntərɪ   n. 清单；存货，库存
 conclude  kən'klu:d   v. 完成，结束
 personnel  n. （总称）人员，员工；人事部门
 impersonator/personator ɪmˈpɜːsəˌneɪtə 假冒者；冒充者  演员
+imperative ɪmˈpɛrətɪv n. 必要的事，紧急的事  adj. 命令的；极重要的 
 literary  ˈlɪtərərɪ  adj. 文学（上）的；书面的
+literally ˈlɪtərəlɪ  adv. 逐字地；照着原文
 littoral ˈlɪtərəl 海滨的  沿海地区
 academic ækə'demɪk 大学的；学术的 大学生
 illiteracy i'litərəsi n. 文盲；无知
@@ -34,6 +36,7 @@ recline  rɪˈklaɪn  v. 使斜靠；斜倚；依赖
 collide  kəˈlaɪd v. 相撞；冲突
 dash dæʃ n\v. 猛冲 bash bæʃ  猛击
 impact ɪmˈpækt  n\v. 冲击；冲击力；影响  对…产生影响
+impair ɪmˈpɛə v. 损害，削弱
 conflict  ˈkɒnflɪkt  n. 战斗；争执；冲突，矛盾  v. 冲突，抵触；争执；战斗
 compact kəmˈpækt 小型的 经济的
 compatible  kəmˈpætəbəl 兼容的
@@ -91,6 +94,8 @@ anticipate ænˈtɪsɪˌpeɪt  预见; 预料
 omen ˈəʊmən n. 预兆
 prophecy ˈprɒfɪsɪ n. 预言，预言能力；预言书
 succeed  səkˈsiːd v. 成功 继承
+inherit ɪnˈhɛrɪt v. 继承
+heir ɛə n. 继承人；后嗣
 adherence ədˈhɪərəns n. 坚持；依附；忠诚
 
 wander  ˈwɑndər  v. 漫步，徘徊；迷路；偏离正题
@@ -99,8 +104,10 @@ roam rəʊm   n/v. 漫步，漫游
 
 nonsense ˈnɒnsəns   n. 胡说；废话；愚蠢的行为；胡闹 
 innocent ˈɪnəsənt  天真的  无罪的
-scene siːn 场景
+scene siːn 场景  
+scenario sɪˈnɑːrɪˌəʊ/səˈnɛriˌoʊ  n. 情节；剧本；方案
 sense sɛns 感觉
+sentiment ˈsɛntɪmənt n. 观点；感情，情绪；感伤 anti-monopolistic [mənɔpə'listik  垄断的] sentiment
 
 rough  rʌf  粗糙；未经加工的；粗鲁的；艰苦地
 roughly  adv. 粗略地；大致上；粗暴地；粗糙地
@@ -147,6 +154,7 @@ bump bʌmp 撞击
 lump lʌmp 肿块
 hump 驼峰
 doom duːm  厄运 使…在劫难逃
+broom brʊm 扫帚
 mute mju:t   n. 哑巴； 沉默的，无声的  
 mutual ˈmjuːtʃʊəl 共同的 mutual benefit 
 mutant ˈmju:tən 突变体
@@ -165,6 +173,7 @@ clue kluː 线索
 crucial ˈkruːʃəl  至关重要的
 brutal ˈbruːtəl adj. 残忍的，野蛮的；不讲理的
 
+taunt tɔːnt nv 嘲笑，奚落，羞辱
 mock mɒk n. 模拟考试；仿制品；嘲弄v. 嘲笑；嘲弄；模仿；不尊重；蔑视adj. 虚假的；不诚实的；模仿的；模拟的；伪造的；仿制的
 
 cur kɜː n. 恶狗，杂种狗；坏蛋
@@ -182,6 +191,7 @@ blunder ˈblʌndə 疏忽，失误
 confine kən'fain  n. 边缘，范围，区域   v. 限制；使局限；禁闭；幽禁 
 peek piːk 偷看，窥视 
 peak piːk 顶峰；山峰；顶点；尖端
+perky ˈpɜːkɪ 活泼的 时髦的
 grace  n. 优雅，魅力；延缓期；恩惠，慈悲 
 gaze ɡeɪz 凝视；注视 
 
@@ -189,11 +199,13 @@ opposite ˈɒpəzɪt 对立物；反义词 反对
 
 plunge plʌndʒ 投入水中；开始从事；猛跌 
 pledge plɛdʒ   n. 抵押；典当品；许诺；誓言；信物   v. 保证，发誓；用……抵押
+ledge lɛdʒ 窗台 暗礁
 plague pleɪɡ 瘟疫；害虫
 surge sɜːdʒ  大涨 汹涌
 
 envy ˈɛnvɪ  nv 妒忌
 faith feɪθn. 相信；信仰；宗教；善意
+forth fɔːθ adv. 向前，往外  so forth 等等(美)
 martyrdom ˈmɑːtədəm n. 殉教
 religious  rɪˈlɪdʒəs n adj 宗教
 relief rɪˈliːf n. 宽慰；救济；救援物资；免除，减轻，解除；代班人
@@ -272,9 +284,11 @@ municipal mjuːˈnɪsɪpəl adj. 市政的
 deposit dɪˈpɒzɪt n. 订金；订钱；押金；沉积物 v. 放置；放下；付定金
 sedimentation ˌsɛdɪmɛnˈteɪʃən n. 沉淀,沉降
 sedition sɪˈdɪʃən n. 煽动骚乱,暴动,妨害治安,骚动
+sedative ˈsɛdətɪv 镇静剂
 
 attain əˈteɪn 获得 到达 实现
 attend əˈtɛnd v. 出席 参加 照料
+attendant əˈtɛndənt 服务人员 侍者 空乘
 intend ɪnˈtɛnd v. 意欲，打算；打算使，想让…做；意指
 intense   ɪnˈtɛns    adj. 强烈的，剧烈的；非常的；紧张的；认真的；热情的；洞悉一切的
 intensive ɪnˈtensɪv 加强
@@ -286,14 +300,16 @@ tender ˈtɛndə 嫩的 投标
 tendency ˈtɛndənsɪ n. 趋势，倾向
 tentative  ˈtɛntətɪv  adj. 试探性的，尝试性的；踌躇的
 contaminate kən'tæmineit v. 污染；弄脏
+contagious kənˈteɪdʒəs adj. 接触传染的；感染性的
 foul faʊl 污秽的；淤塞的 犯规
 treason ˈtriːzən n. 叛国（罪）；不忠
 
 generate ˈdʒɛnəˌreɪt v. 产生；形成，引起
+genesis ˈdʒɛnəsɪs n. 发生，起源
 general ˈdʒɛnərəl adj. 普遍的，全体的；正常的；大致的，笼统的 n. 将军
 generous   ˈdʒɛnərəs   adj. 慷慨的，大方的；宽宏大量的；有雅量的
 gentler dʒentliə  adj. 温和的,优雅的
-
+genuine ˈdʒɛnjʊɪn  纯粹的 genuine inspiration 存粹的灵感
 regular ˈrɛɡjʊlə 常规 正式的
 regulate 规定 调整
 
@@ -326,9 +342,11 @@ invasion ɪnˈveɪʒən  n. 侵略；侵犯；侵占；侵袭
 intruder ɪnˈtruːdə n. 侵入者；干扰者
 congress 国会
 parliament ˈpɑːləmənt 国会
+conglomerate kənˈɡlɒmərɪt  聚合物，砾岩；企业集团
 
 approval əˈpruːvəl n. 批准；认可；赞成
 improve  ɪmˈpruːv v. 改进；提高；利用；康复；超过
+improvise ˈɪmprəˌvaɪz v. 即兴创作；临时提供
 appropriate əˈprəʊprɪˌeɪt  适当的 恰当的
 prove pruːv v. 证明，证实；显示；证明是
 proof  pruːf  n. 证据，证明，证实，验算  v. 做防护处理 adj. 能防护的
@@ -367,6 +385,10 @@ supplement sʌplimənt  n\v. 补编 追加
 
 
 parade  pəˈreɪd  n. 检阅，阅兵  v. 游行
+paradox ˈpærəˌdɒks  n. 自相矛盾的人或事
+parasite ˈpærəˌsaɪt  寄生虫
+intestine  ɪnˈtɛstɪn  肠  内部的
+
 awards ceremony ˈsɛrəmənɪ 颁奖仪式
 keynote n. 要旨，主题
 marble ˈmɑːbəl 大理石
@@ -402,6 +424,7 @@ dessert dɪˈzɜːt n. 餐后甜点
 deserve dɪˈzɜːv  v. 应得
 desire  n/v. 渴望，欲望
 thirsty ˈθɜːstɪ adj. 口渴的；干旱的；渴望的；耗油的
+yearn jɜːn v. 渴望，向往；思念
 
 aspire əˈspaɪə v. 渴望；追求；立志
 inspire ɪnˈspaɪə v. 鼓舞，激励
@@ -464,11 +487,13 @@ shave ʃeɪv 剃毛发
 
 immensely ɪˈmɛnslɪ  adv. 非常；极大地；无限地
 persuade  pəˈsweɪd v. 说服；劝说
+persecute ˈpɜːsɪˌkjuːt v. 迫害；困扰
 inventory  ˈɪnvəntərɪ  n. 清单；存货，库存
 
 polite pəˈlaɪt 有礼貌的
 pilot ˈpaɪlət 飞行员 试验
 political  pəˈlɪtɪkəl  政治上的
+litigation ˌlɪtɪˈɡeɪʃən n. 诉讼
 
 reign reɪn n\v. 支配，统治，统治时期
 assassin əˈsæsɪn  n. 刺客
@@ -485,6 +510,7 @@ admission ədˈmɪʃən n. 准许进入，录取；进入；承认；入场费�
 admit ədˈmɪt 承认；准许进入
 admire ədˈmaɪə v. 钦佩；称赞；羡慕
 promise ˈprɒmɪs 许诺
+compromise ˈkɒmprəˌmaɪz nv 妥协；违背；危害
 permit pəˈmɪt 允许
 miser ˈmaɪzə 守财奴
 emit  ɪˈmɪt 散发 emit carbon dioxide
@@ -550,19 +576,24 @@ embrace ɪmˈbreɪs 拥抱
 bracket ˈbrækɪt 括号
 brace breɪs 支柱 大括弧
 pillar ˈpɪlə 柱子
+stain steɪn 污点 着色 it's stained and frayed [磨损] in such distinctive [与众不同的] way 
 sustain  səˈsteɪn  v. 支撑；支援；维持；供养；忍住；遭受，忍受；证实；扮演
 obtain  əbˈteɪn  v. 获得，流行，存在
 detain  dɪˈteɪn  拘留
+contain 含有 抑制
 observe 观察
 obsolete ˈɒbsəˌliːt 淘汰；废弃
 cumulative ˈkjuːmjʊlətɪv adj. 累积的；渐增的
 accumulate əˈkjuːmjʊˌleɪt v 积累，积聚
 stimulate ˈstɪmjʊˌleɪt v. 刺激；激励
 stipulate ˈstɪpjʊˌleɪt v. 规定；保证 Contracts stipulate cost of $80M per plance by 2020.
+simultaneous ˌsɪməlˈteɪnɪəs adj. 同时的，同时发生的
+formulate  ˈfɔːmjʊˌleɪt  配制  使公式化 he formulates the compounds [ˈkɒmpaʊnd 混合物]
 
 
 attribute ˈætrɪˌbjuːt 属性 把……归因于
 attrition  əˈtrɪʃən  n 耗损
+attorney  əˈtɜːnɪ  n. 律师；代理人
 
 pedestrian pəˈdɛstrɪən  步行者
 stroll 漫步
@@ -626,6 +657,7 @@ scar skɑː 伤疤
 scarf skɑːf 围巾
 heal  hiːl  v. 愈合，治愈；结束，较容易忍受；调停，消除
 graft  ɡrɑːft   移植，嫁接；贪污；
+vulture ˈvʌltʃə n. 秃鹫；贪婪的人，劫掠者
 ankle  ˈæŋkəl  n. 脚踝；踝关节
 fuse   fjuːz  n. 保险丝；导火线；引信，雷管  v. （使）熔化，融合
 prognosis  prɒɡˈnəʊsɪs   对病人病情的预后 
@@ -635,7 +667,7 @@ principle  ˈprɪnsɪpəl  n. 道德原则，行为准则；法则，原理
 principal ˈprɪnsəpl 首要的；主要的  负责人；主管 院长
 discipline  ˈdɪsɪplɪn  纪律；训练；处罚；学科  
 disciple dɪˈsaɪpəl n. 信徒；门徒
-manner  ˈmænə    n. 方式，方法；态度；规矩；习惯；风俗；风格
+manner  ˈmænə    n. 方式，方法；态度；规矩；习惯；风俗；风格 study his manerism
 
 violation ˌvaiə'leiʃən  n. 违反；违背；侵害；强奸
 anonymous əˈnɒnɪməs  adj. 匿名的；不记名的；没有特色的
@@ -646,6 +678,7 @@ encounter  n. 邂逅，遭遇，冲突，比赛，交锋 v. 意外地遇见，�
 compartment  kəmˈpɑːtmənt n. 隔间；隔层
 eject  ɪˈdʒɛkt  v. 喷射，喷出；弹射出；驱逐
 spray  spreɪ   n. 浪花；水花；喷雾  v. 喷，喷洒；溅
+fray freɪ  磨损
 adapter  əˈdæptə  n. 适配器；改编者；适应者
 foremost  ˈfɔːˌməʊst 优先  重要的
 
@@ -653,9 +686,11 @@ asset  ˈæsɛt  n. 有价值的人或物，有利条件，优点；资产
 
 formal  ˈfɔːməl   adj. 正式的；礼仪上的；有条理的；正规的；公开的 ；拘谨的
 former  ˈfɔːmə   以前的
+forger ˈfɔːdʒə 伪造者
 embed   ɪmˈbɛd    v. 把...嵌入；使深留脑中
 nuance  ˈnjuːɑːns   n. 细微差别
 amplification   ˌæmplɪfɪˈkeɪʃən    n. 放大，扩大；详述
+ample ˈæmpəl adj. 足够的
 debut   ˈdeɪbjuː   首次登台
 premiere  ˈprɛmɪˌɛə   （电影、戏剧的）首映
 pregnant ˈpreɡnənt  adj. 怀孕的；富有意义的
@@ -729,7 +764,8 @@ franchise  ˈfræntʃaɪz  n.特许权，经销权
 mortgage   ˈmɔːɡɪdʒ   抵押
 exquisite  ɪkˈskwɪzɪt n. 过分讲究穿戴的人   adj. 精美的，细腻的；剧烈的，极度的
 prevalent   ˈprɛvələnt  adj. 流行的；普遍的
-collapse  kəˈlæps    倒塌
+collapse  kəˈlæps  nv   倒塌
+topple ˈtɒpəl v. 推翻；倒塌 
 collateral kɒˈlætərəl 担保品，抵押品  并行的
 fame   feɪm  n. 名望，声誉
 descend  dɪˈsɛnd  v. 下来；下去；下降；下斜；降临；遗传；屈尊；堕落；袭击
@@ -780,7 +816,7 @@ putter ˈpʌtə 推杆高尔夫
 trial ˈtraɪəl  n adj 试用
 trail treɪl 足迹
 trailer ˈtreɪlə 电影预告片
-tailor ˈteɪlə  nv 裁缝,剪裁
+tailor ˈteɪlə  nv 裁缝,剪裁 量身打造 
 traitor ˈtreɪtə 叛徒
 sew səʊ 缝
 screw skruː 螺丝钉 敲诈
@@ -794,7 +830,7 @@ hatch hætʃ 孵化 秘密策划 舱门
 ditch dɪtʃ 沟渠 抛弃；迫降 
 pitch pɪtʃ 投掷 沥青
 hitch hɪtʃ 故障；障碍
-elegant ˈɛlɪɡənt 优雅的 an elegant restaurant
+elegant ˈɛlɪɡənt 优雅的 an elegant restaurant /an elegant solution 
 elevate ˈɛlɪˌveɪt 举起 
 
 dictator dɪkˈteɪtə 独裁者
@@ -812,7 +848,7 @@ rigid ˈrɪdʒɪd 顽固的 僵硬的
 prompt prɒmpt 提示 准时地
 etiquette  ˈɛtɪˌkɛt  礼节；规矩
 intuitive ɪnˈtjuːɪtɪv 直觉的，直观的
-perceive pəˈsiːv 注意到 觉察到
+perceive pəˈsiːv 注意到 觉察到 we create and perceive  our world simultaneously ˌsɪməlˈteɪnɪəslɪ [同时].
 slot slɒt 插槽 时段
 obligation  ˌɒblɪˈɡeɪʃən  义务
 
@@ -827,11 +863,16 @@ twitch twɪtʃ 抽搐
 beacon ˈbiːkən  灯塔
 intact ɪnˈtækt adj. 完整无缺的；原封不动的；
 tactical tæktikl adj. 战术的，用兵上的，策略的；机灵的
+neat niːt dj. 整洁的；齐整的；工整的；匀称的；平滑的；极好的；未掺水的 it seemed neater
 sneak sniːk 偷偷地
 snack snæk 点心，快餐
 snake sneɪk 蛇
 snatch snætʃ  抢夺
 snap snæp 突然断裂
+kidnap ˈkɪdnæp v. 绑架；诱拐；拐骗
+abduct æbˈdʌkt v. 绑架
+airduct  通风管道(美)
+ransom ˈrænsəm 赎金；赎罪
 snip snɪp 剪短
 sniper snæpə 狙击手
 
@@ -850,7 +891,6 @@ myriad ˈmɪrɪəd 无数的
 render ˈrɛndə 使成为；使变得 给予；提供
 nasty ˈnɑːstɪ ˈnæsti adj. 令人讨厌的 作呕的
 vile vaɪl adj. 卑鄙的；糟糕透顶的
-converge kənˈvɜːdʒ 汇集
 maneuver məˈnuːvə 演习；策略
 nausea ˈnɔːzɪə n. 恶心，晕船
 dizzy ˈdɪzɪ 晕眩的
@@ -878,7 +918,7 @@ armor ˈɑːmə 盔甲
 witch 巫婆
 widow 寡妇
 
-funeral ˈfjuːnərəl 葬礼
+funeral ˈfjuːnərəl n 葬礼
 coffin ˈkɒfɪn 棺材
 cremate krɪˈmeɪt 火葬
 crypt krɪpt n. 土窖,地穴,地下室
@@ -952,6 +992,7 @@ vigil ˈvɪdʒɪl 警戒；守夜
 
 slight slaɪt 轻蔑 轻微的
 delight dɪˈlaɪt 高兴
+dilemma dɪˈlemə n.  进退两难
 
 sketch skɛtʃ 素描 概略
 gadget ˈɡædʒɪt n. 小玩意
@@ -959,6 +1000,7 @@ theater ˈθɪətə 剧场
 threat θret 恐吓
 thread θrɛd 线 穿线
 
+amend əˈmɛnd v. 改良；修改，修正 
 bend bɛnd  弯曲
 blend blɛnd 混合
 brand brænd 商标
@@ -1005,7 +1047,7 @@ ruthless ˈruːθlɪs 无情的
 
 sack sæk 麻袋；解雇 洗劫
 sake seɪk n. 目的；理由，缘故，利益
-
+stake steɪk 赌注 打赌 桩；棍子
 
 identical aɪˈdɛntɪkəl adj. 完全同样的，相同的
 identify  aɪˈdɛntɪˌfaɪ v. 确定；识别 把…看成一样
@@ -1021,10 +1063,12 @@ rod rɒd 杆 钓竿
 toe təʊ 脚趾
 numbness ˈnʌmnɪs 麻木
 crawl krɔːl 爬行 匍匐行进 拍马屁
+scramble 攀登，爬行；争夺，抢夺 炒（蛋）  scramble egg 
 botany ˈbɒtənɪ n. 植物学
 dissect dɪˈsekt v 解剖
 courtesy ˈkɜːtɪsɪ  n adj  礼貌
 scorpion ˈskɔːpɪən 蝎子
+espionage ˈespɪəˌnɑːʒ n. 间谍；间谍活动
 hover ˈhɒvə  盘旋 
 oral ˈɔːrəl 口头的
 saliva səˈlaɪvə 唾液
@@ -1032,12 +1076,13 @@ puppet ˈpʌpɪt n. 木偶；傀儡
 dummy ˈdʌmɪ 假人 仿制品
 freak friːk 怪异的
 
-gravity ˈɡrævɪtɪ 万有引力，地心引力
+gravity ˈɡrævɪtɪ 万有引力，地心引力 严肃 
 grave  ɡreɪv 坟墓  铭记
 gravy  ˈɡreɪvɪ  肉汁
 
 rotate rəʊˈteɪt v. （使）旋转；（使）轮流
 rotten ˈrɒtən 腐烂的；恶臭的；堕落的；虚弱的；极坏的
+corrupt kəˈrʌpt v. （使）腐化  腐败的；堕落的 you're here to corrupt  my student.
 feeble ˈfiːbəl adj. 虚弱的，无力的；懦弱的，薄弱的
 malady ˈmælədɪ 瘟病 疾病
 
@@ -1057,6 +1102,7 @@ muzzle ˈmʌzəl 给…戴上嘴套
 notch nɒtʃ 刻痕
 pagan ˈpeɪɡən 异教徒的；无宗教信仰的
 voodoo ˈvuːduː n. 巫毒教;巫毒教的魔术
+wool wʊl 羊毛 毛织品
 
 casualty ˈkæʒjʊəltɪ n. 意外事故；伤亡人员；受害者；急诊室
 casual  ˈkæʒjʊəl adj. 偶然的；随便的，非正式的；临时的
@@ -1064,6 +1110,8 @@ evacuate i'vækjueit v. 撤离；剥夺；排空
 
 bastard ˈbɑːstəd  杂种 私生子
 trauma ˈtrɔːmə n. 创伤，痛苦；外伤，损伤  trauma kit 急救箱
+misery ˈmɪzərɪ n. 悲惨，不幸；穷困；痛苦
+agony ˈæɡənɪ n. 极大的痛苦；苦恼，烦闷；临死的挣扎
 flank flæŋk 侧翼
 thermal ˈθɜːməl adj. 热的，热量的
 
@@ -1073,6 +1121,7 @@ fiscal ˈfɪskəl adj. 财政的；会计的
 carve kɑːv 雕刻
 curve kɜːv 曲线
 chart tʃɑːt  图表
+charm tʃɑːm 魅力 魔法
 trajectory trəˈdʒɛktərɪ n. 弹道，轨道，轨线
 crave kreɪv v. 渴望；恳求
 
@@ -1093,10 +1142,12 @@ tattoo tæˈtuː  n/v 纹身
 
 
 coordinate kəʊˈɔːdɪˌneɪt 坐标
-subordinate 次级
+subordinate 次级  subordinate debt 次级贷
+subtle ˈsʌtəl adj. 稀薄的；微妙的  subtle art
 smother ˈsmʌðə  n/v 窒息 浓烟
 chute ʃuːt 降落伞
 rug rʌɡ 毯子
+carpet ˈkɑːpɪt 地毯
 versatile ˈvɜːsəˌtaɪl   多才多艺的；多用途的，多功能的
 surveillance səˈveɪləns 监督，监视
 populate ˈpɒpjʊˌleɪt v. 居住于，生活于；移民于；落户于
@@ -1106,7 +1157,11 @@ neutralize ˈnjuːtrəˌlaɪz v. 使无效，变无效；（使）中立化；�
 
 robust rəʊˈbʌst adj. 健康的，强健的；坚定的
 superior suːˈpɪərɪə n. 优胜者；上级 adj. 优良的；强的；级别高的
+supersede ˌsuːpəˈsiːd v. 取代，代替；更替
 convoy ˈkɒnvɔɪ n. 车队，舰队，护航队 v. 护送，护航
+converge kənˈvɜːdʒ 汇集 the projections start to converge on you
+convince kənˈvɪns v. 使确信；说服
+
 escort ˈɛsˌkɔrt v. 护送；陪同；护卫 n. 护航舰
 seam siːm 接缝 缝合
 logistics lɒˈdʒɪstɪks n. 后勤；物流
@@ -1135,7 +1190,38 @@ ignorant ˈɪɡnərənt adj. 无知的，愚昧的；无礼的
 abide əˈbaɪd v. 忍受；遵守；居住
 dagger ˈdæɡə n. 匕首，短剑
 stab stæb v. 戳；刺伤
+strangle ˈstræŋɡəl v. 勒死；抑制，扼杀
 strait streɪt n. 海峡 
 nonrecurring adj. 不重现的 nonrecurring engineering costs.
-radius n. 半径 combat radius 作战半径
+radius ˈreɪdɪəs n. 半径 combat radius 作战半径
+radical ˈrædɪkəl  n/adj  激进 a man possessed of radical notions [ˈnəʊʃən 见解]
 allied ˈælaɪd/əˈlaɪd adj/n  同盟
+eradicate ɪˈrædɪˌkeɪt v. 根除；消灭 idea is impossible to eradicate
+postwar pəust'wɔ adj. 战后的
+decor ˈdeɪkɔː  装饰布局，装潢风格
+polyester ˌpɒlɪˈestə n. 聚酯纤维；涤纶
+cheek tʃiːk 脸颊
+cherish ˈtʃɛrɪʃ v. 珍爱，爱护，抚育；怀有 a cherished memory
+chest tʃɛst n. 胸部；大箱子；金库
+bargain ˈbɑːɡɪn 便宜货；协议 讨价还价 bargain for his life 
+
+bureau ˈbjʊərəʊ 局，处，办公室，机构  bureaucratic ˌbjʊərəˈkrætɪk  官僚主义的
+vault vɔːlt  n/v 拱顶 地下室；墓穴；金库；撑物跳
+totem ˈtəʊtəm 图腾
+prejudice ˈprɛdʒʊdɪs nv 偏见 the mercy [ˈmɜːsɪ  仁慈] of you subject's prejudice 
+disguise dɪsˈɡaɪz nv 伪装 隐瞒  disguise the boundary of the dream
+sabotage  ˈsæbəˌtɑːʒ 蓄意破坏
+trump trʌmp 王牌 出王牌 胜过 positive emotion trumps nagative emotion
+reconciliation rekənsili'eiʃən  协调 we yearn for reconciliation
+catharsis kəˈθɑːsɪs 情感宣泄
+jolt dʒəʊlt nv 颠簸
+penetrate ˈpɛnɪˌtreɪt v. 渗入，刺入，穿透；进入，跻身 penetrate three levels
+freight freɪt n. 货物；货运；运费  v. 装货于；以货运运输  freight train
+
+combination ˌkɒmbɪˈneɪʃən 对号密码 联合体
+burst bɜːst 爆裂 突然闯进
+sane seɪn 神志正常的
+turbulence ˈtɜːbjʊləns n 湍流 动荡 turbulence on the plane
+terrace ˈtɛrəs 梯田；阳台，平台
+porch pɔːtʃ n. 门廊
+recess rɪˈsɛs 休息 深处 go deep into the recess of her mind
