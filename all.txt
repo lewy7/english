@@ -108,6 +108,7 @@ scene siːn 场景
 scenario sɪˈnɑːrɪˌəʊ/səˈnɛriˌoʊ  n. 情节；剧本；方案
 sense sɛns 感觉
 sentiment ˈsɛntɪmənt n. 观点；感情，情绪；感伤 anti-monopolistic [mənɔpə'listik  垄断的] sentiment
+sensational sen'seɪʃənəl adj. 轰动的；耸人听闻的；极好的
 
 rough  rʌf  粗糙；未经加工的；粗鲁的；艰苦地
 roughly  adv. 粗略地；大致上；粗暴地；粗糙地
@@ -197,6 +198,7 @@ peak piːk 顶峰；山峰；顶点；尖端
 perky ˈpɜːkɪ 活泼的 时髦的
 grace  n. 优雅，魅力；延缓期；恩惠，慈悲 
 gaze ɡeɪz 凝视；注视 
+graze ɡreɪz 吃草
 
 opposite ˈɒpəzɪt 对立物；反义词 反对
 
@@ -260,6 +262,7 @@ advice  ədˈvaɪs  n. 劝告，忠告，建议；消息；通知
 advise  ədˈvaɪz  v. 劝告，忠告；通知，告知；建议
 advance  ədˈvɑːns  预先 前进
 
+faction ˈfækʃən 大团体中的派别 小集团 纪实作品  he's form his own splinter faction.
 fraction ˈfrækʃən n. 小部分，少量，一点儿；分数，小数
 inflation ɪnˈfleɪʃən  n. 膨胀；通货膨胀；夸张；自命不凡
 flatter ˈflætə . 奉承；谄媚
@@ -344,6 +347,7 @@ substantial səbˈstænʃəl 充实的 大量的
 referee ˌrɛfəˈriː n. 裁判员
 aside from 除。。。之外
 
+aggravate ˈæɡrəˌveɪt vt. 加重；使恶化；激怒
 aggress əˈɡres v. 侵犯，攻击，挑衅    aggressive有进取心的
 invade ɪnˈveɪd  v. 武装入侵；涌入；干扰
 invasion ɪnˈveɪʒən  n. 侵略；侵犯；侵占；侵袭
@@ -993,7 +997,7 @@ labyrinth ˈlæbərɪnθ 迷宫
 soil sɔil 土壤
 coil kɔil 线圈
 bail beɪl 保释
-hail heɪl 致敬
+hail heɪl 致敬 冰雹
 toss tɒs 扔；抛；投
 toll təʊl 通行费；代价；钟声
 gut ɡʌt 消化道；内脏；肚子 直觉，本能
@@ -1055,8 +1059,8 @@ gross ɡrəʊs 总额GDP 极端的
 gloss ɡlɒs  光泽 注解
 
 sow səʊ 母猪 播种  reap without sowing 不劳而获
-devastate ˈdɛvəˌsteɪt 毁坏，毁灭，蹂躏
-famine ˈfæmɪn n. 饥荒；饥饿
+devastate ˈdɛvəˌsteɪt 毁坏，毁灭，蹂躏  devastate by a tornados
+famine ˈfæmɪn n. 饥荒；饥饿 
 
 embark ɪmˈbɑ:k 从事 上船或飞机
 dignity ˈdɪɡnɪtɪ 尊严 
@@ -1193,7 +1197,9 @@ lag læg n. 时间间隔；滞后 v. 缓缓而行；落后于
 herd hɜːd n. 兽群； 民众 v. （使）成群 放牧
 slaughter ˈslɔːtə n/v 屠宰；屠杀
 slab slæb 厚板 paving [peɪv 铺] slab 
+chunk tʃʌŋk （肉、木头等的）厚块，大块
 slack  slæk n/v/adj 松弛 的 不景气的  slack season 淡季
+slam  slæm v. 砰地关上；猛扔，猛击；猛撞；猛烈抨击
 precarious prɪˈkɛərɪəs adj. 不确定的；危险的
 
 provoke prəˈvəʊk v. 激起 煽动
@@ -1255,12 +1261,13 @@ virgin ˈvɜːdʒɪn 处女 处女的，贞洁的
 hormone ˈhɔːməʊn n. 荷尔蒙
 smuggle ˈsmʌɡəl v. 走私，偷带
 splinter ˈsplɪntə 碎片 
-faction ˈfækʃən 大团体中的派别 小集团 纪实作品  he's form his own splinter faction.
 cheque tʃɛk n. 支票(英)
 thigh θaɪ n. 股，大腿 
 intimate ˈɪntɪmɪt adj.  亲密的  v. 暗示；提示 n. 知己，密友
 humiliate hjuːˈmɪlɪˌeɪt v. 使丢脸；羞辱
 navel ˈneɪvəl n. 脐，肚脐；中央，中心
+chin tʃɪn 下巴
+dimple ˈdɪmpəl 酒窝
 lint lɪnt n. 软麻布；线头；棉绒
 
 sympathy ˈsɪmpəθɪ n. 同情，同情心；支持；同感；慰问
@@ -1269,3 +1276,22 @@ nominal ˈnɒmɪnəl adj. 名义上的；微不足道的；票面上的
 
 detonate ˈdetəˌneɪt v. 引爆；触发
 cordon ˈkɔːdən vt. 1. 用警戒线围住（常与off连用）
+testimony ˈtɛstɪmənɪ n. 证词，证言；证据
+abrupt əˈbrʌpt adj. 突然的，意外的；粗鲁的；陡峭的 abrupt climate shift
+buoy bɔɪ  n. 浮标，航标；救生圈
+swell swɛl n. 海面的起伏；膨胀
+cyclone  ˈsaɪkləʊn n. 旋风，气旋，飓风
+tornado  tɔːˈneɪdəʊ  n. 旋风，龙卷风；暴风；大雷雨
+affiliate ə'filieit 隶属的机构
+sewage  ˈsuːɪdʒ  n. 脏水，污水，污物；下水道
+gauge ɡeɪdʒ  n. 标准尺寸；测量仪器；规，表，计；大小，程度；范围；容量；（枪管的）口径 v. 判断；估计；量，测
+vertical ˈvɜːtɪkəl n. 垂直线；垂直位置 adj. 竖的；垂直的；直立的；纵向的
+rotor ˈrəʊtə 旋翼 转子
+starboard  ˈstɑːbəd 右舷
+mob mɒb n. 暴民，乌合之众；犯罪团伙，黑手党 v. 围攻；蜂拥进入；聚众生事 mob scene
+wade weɪd 涉水
+garbage ˈɡɑːbɪdʒ n. 垃圾；剩菜；废物；废话
+panic ˈpænɪk 惊恐
+lure lʊə n. 吸引力；诱惑力；魅力；诱饵 v. 劝诱；引诱；诱惑
+dissipate ˈdɪsɪˌpeɪt 使消散 dissipate the heat
+adversity ədˈvɜːsɪtɪ  n. 逆境，不幸，灾难
