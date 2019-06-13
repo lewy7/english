@@ -195,6 +195,9 @@ pit  n. 深洞；煤矿；使有凹陷
 bury ˈberɪ v. 埋葬；隐藏；专心于；掩埋
 blurry ˈblɜːrɪ  adj. 模糊的 
 blunder ˈblʌndə 疏忽，失误
+fury ˈfjʊərɪ  n. 狂怒，暴怒
+
+
 
 confine kən'fain  n. 边缘，范围，区域   v. 限制；使局限；禁闭；幽禁 
 peek piːk 偷看，窥视 
@@ -617,7 +620,7 @@ attorney  əˈtɜːnɪ  n. 律师；代理人
 
 pedestrian pəˈdɛstrɪən  步行者
 stroll 漫步
-stalk  stɔːk 茎，秆 潜近 昂首阔步 
+stalk  stɔːk 茎，秆 潜近 昂首阔步  追踪
 stem stɛm 干，茎 阻止；起源于
 strut strʌt 昂首阔步
 irrigate ˈɪrɪˌɡeɪt v. 灌溉
@@ -991,7 +994,7 @@ creep kriːp 爬行 蔓延 卑鄙小人
 crawl krɔːl 爬行；匍匐 爬泳
 squat skwɒt 蹲坐
 weed 野草
-straw strɔː n. 稻草，麦秆
+straw strɔː n. 稻草，麦秆 straw hat 草帽
 
 fate feɪt n. 命运，宿命；死亡
 fatigue fəˈtiːɡ 疲劳；杂役
@@ -1373,3 +1376,62 @@ aileron ˈeɪlərɒn  n. 副翼
 bogey ˈbəʊɡɪ n. 妖怪,可怕的人(物)
 smack smæk n. 一巴掌，一拳
 destiny ˈdɛstɪnɪ n. 命运；天数
+dinosaur ˈdaɪnəˌsɔː n. 恐龙
+haunt hɔːnt n. 栖息地；常去的地方 常出没于
+pirate ˈpaɪrɪt n. 海盗 
+mermaid ˈmɜːˌmeɪd 美人鱼
+paddy ˈpædɪ 稻田
+naughty ˈnɔːtɪ adj. 顽皮的，粗俗的
+rhyme raɪm 押韵
+crib krɪb  婴儿床 抄袭
+dodge dɒdʒ 躲避
+litter ˈlɪtə 垃圾，废弃物
+patron ˈpeɪtrən n. 赞助人，赞助者
+exotic ɪɡˈzɒtɪk 异国风味的
+peddle ˈpɛdəl 贩卖(一般非法)
+lick lɪk 舔
+unicorn ˈjuːnɪˌkɔːn 独角兽
+pillow ˈpɪləʊ 枕头
+curtain ˈkɜːtən 窗帘
+chest tʃɛst 大箱子
+
+pebble ˈpɛbəl 鹅卵石
+pond pɒnd 池塘
+moss mɒs 苔藓
+dam dæm 水坝
+meadow ˈmɛdəʊ 草地
+glacier ˈɡlæsɪə 冰川
+
+seagull ˈsiːˌɡʌl 海鸥
+penguin ˈpɛŋɡwɪn 企鹅
+octopus ˈɒktəpəs 章鱼
+clam klæm 蛤
+dove dʌv 鸽子
+owl aʊl 猫头鹰
+lizard ˈlɪzəd 蜥蜴
+giraffe dʒɪˈrɑːf 长颈鹿
+crow krəʊ 乌鸦
+swan swɒn 天鹅
+ostrich ˈɒstrɪtʃ 鸵鸟
+
+diagonal daɪˈæɡənəl 斜线
+
+utensil juːˈtensəl 用具 器皿
+shear ʃɪə 大剪刀 scissors ˈsɪzəz 剪刀
+shovel ˈʃʌvəl 铲
+
+jealous ˈdʒɛləs 妒忌的 
+miserable ˈmɪzərəbəl 痛苦的
+envious ˈɛnvɪəs 羡慕的
+
+ridge rɪdʒ 屋脊
+chimney ˈtʃɪmnɪ 烟囱
+
+cucumber ˈkjuːˌkʌmbə 黄瓜
+lettuce ˈletɪs 莴苣，生菜
+garlic ˈɡɑːlɪk 大蒜
+pumpkin ˈpʌmpkɪn 南瓜
+papaya pəˈpaɪə 木瓜
+kiwi ˈkiːwiː 猕猴桃
+
+capsule ˈkæpsjuːl 胶囊 
