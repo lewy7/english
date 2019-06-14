@@ -84,6 +84,8 @@ aspect ˈæspɛkt  n. 方面，形势；方向；面貌；
 respect rɪˈspɛkt 尊敬 遵守 问候
 respite ˈrespaɪt 延期 缓期执行
 inspect ɪnˈspɛkt v. 检查，查看；视察
+prospect prɔspekt 指望 勘探
+circumspect ˈsɜːkəmˌspekt adj. 谨慎小心的，周到的
 perspective pəˈspɛktɪv adj. 透视的 n. 透视图；观点；洞察力；远景
 inspire  ɪnˈspaɪə  v. 鼓舞，激励；赋予灵感；启迪，启示；激发，产生
 spirit   ˈspɪrɪt   n. 精神；情绪；志气；烈酒；潮流；灵魂，幽灵  v. 鼓励；使振作；诱拐
@@ -1435,3 +1437,29 @@ papaya pəˈpaɪə 木瓜
 kiwi ˈkiːwiː 猕猴桃
 
 capsule ˈkæpsjuːl 胶囊 
+catastrophe kəˈtæstrəfɪ 大灾难
+decay dɪˈkeɪ 腐败
+mediocre ˌmiːdɪˈəʊkə 普通的
+comrade ˈkɒmreɪd n. 伙伴，同事；同志
+botanist ˈbɒtənɪst n. 植物学家
+renown rɪˈnaʊn 声誉
+praise preɪz 赞扬
+misdeed ˌmɪsˈdiːd 恶行
+limbo ˈlɪmbəʊ 地狱边境 不确定的状态
+feudal ˈfjuːdəl adj. 封建的；领地的
+midge midʒ 蚊,侏儒
+dynamite ˈdaɪnəˌmaɪt 炸药
+joint dʒɔɪnt 关节 
+torch tɔːtʃ 火炬
+smash smash 捣碎，打碎
+illusion ɪˈluːʒən 假象，幻觉
+instinct instiŋkt 本能；直觉
+saddle ˈsædəl 马鞍；车座
+pigment ˈpɪɡmənt 颜料
+ignorant ˈɪɡnərənt 无知的，愚昧的
+amateur ˈæmətə 业余的 业余 外行
+fresco ˈfrɛskəʊ 壁画
+diagram ˈdaɪəˌɡræm 图解 
+awkward ˈɔːkwəd 尴尬的 
+latent ˈleɪtənt adj. 潜在的，潜伏的
+insulate ˈɪnsjʊˌleɪt 使隔热，使隔音，使绝望；使免受，隔离
