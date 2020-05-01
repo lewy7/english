@@ -1,0 +1,11 @@
+.main{margin:0 auto; width:99%;font-size:18px;text-align:center;line-height:2.0em;}
+.en{float:left;display:block;width:48%;text-align:left;}
+.separate{float:left;display:block;border:#f0f0f0 1px solid;text-align:center;font-size:28px;}
+.cn{float:left;display:block;width: 48%;text-align:left;}
+.title{font-size:40px;text-align:center;}
+.content_en{text-align:left;text-indent:2em;line-height:1.5em;}
+.content_cn{text-align:left;text-indent:2em;line-height:2.0em;}
+.v{font-weight:bold;color:#ff00f0;}
+.v span{display:none;color:#555ff0;font-size:16px;}
+
+.clear{ clear:both;}
